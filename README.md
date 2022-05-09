@@ -2,7 +2,7 @@
 
 **I'm a coder and linguist who enjoy web develop and NLP.**
 
-### BIO
+#### Bio
 
 - 🎓 I graduated with a bachelor's degree in **Linguistics** from Bogotá City National University of Colombia.
 - 🌱 I’m currently learning **Language technologies for information extraction** for AI.
@@ -33,7 +33,7 @@
 ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&labelColor=grey&logoColor=white)
 ![Netbeans Badge](https://img.shields.io/badge/-Netbeans-red?style=flat-square&logo=Apache-NetBeans-IDE&labelColor=grey&logoColor=white)
 
-### FUN FACTS
+#### Interesting Facts
 - ⚡️ I worked on profreader roles. I like the details.
 - ⚡️ I had a rock band when I was 19.
 - ⚡️ I've been playing CoD recently. It's really amazing.
