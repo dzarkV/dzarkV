@@ -9,7 +9,7 @@
 - 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure POO.
 - 🔧 I love working on Linux... You can customize it!
 - 👯 I’m looking to collaborate on chat agents or NLP embbebed projects.
-- 📫 Contact me: [LinkedIn](https://bit.ly/30RmPiC)
+- 📫 Contact me: <a href=https://bit.ly/30RmPiC><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white"></a>
 
 #### Programming languages
 
