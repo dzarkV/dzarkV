@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on chat agents or NLP embbebed projects.
 - 📫 Contact me: [LinkedIn](https://bit.ly/30RmPiC)
 
-#### Languages
+#### Programming languages
 
 ![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&labelColor=grey&logoColor=white)
 ![Pharo Badge](https://img.shields.io/badge/-Pharo-9cf?style=flat-square&logo=Harbor&labelColor=grey&logoColor=white)
