@@ -6,7 +6,7 @@
 
 - 🎓 I graduated with a bachelor's degree in **Linguistics** from Bogotá City National University of Colombia.
 - 🌱 I’m currently learning **Language technologies for information extraction** for AI.
-- 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure POO.
+- 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure OOP.
 - 🔧 I love working on Linux... You can customize it!
 - 👯 I’m looking to collaborate on chat agents or NLP embbebed projects.
 - 📫 Contact me: <a href="https://bit.ly/30RmPiC" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white"></a>
@@ -14,7 +14,7 @@
 #### Programming languages
 
 ![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&labelColor=grey&logoColor=white)
-![Pharo Badge](https://img.shields.io/badge/-Pharo-9cf?style=flat-square&logo=Harbor&labelColor=grey&logoColor=white)
+![Smalltalk Badge](https://img.shields.io/badge/-Pharo/Smalltalk-9cf?style=flat-square&logo=Harbor&labelColor=grey&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&labelColor=grey&logoColor=white)
 
 #### Frameworks
