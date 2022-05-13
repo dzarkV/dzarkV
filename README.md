@@ -4,7 +4,7 @@
 
 #### Bio
 
-- 🎓 I graduated with a bachelor's degree in **Linguistics** from Bogotá City National University of Colombia.
+- 🎓 I graduated with a bachelor's degree in **Linguistics** from National University of Colombia.
 - 🌱 I’m currently learning **Language technologies for information extraction** for AI.
 - 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure OOP.
 - 🔧 I love working on Linux... You can customize it!
@@ -33,7 +33,7 @@
 ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&labelColor=grey&logoColor=white)
 ![Netbeans Badge](https://img.shields.io/badge/-Netbeans-red?style=flat-square&logo=Apache-NetBeans-IDE&labelColor=grey&logoColor=white)
 
-#### Interesting Facts
+#### Interesting facts
 - ⚡️ I worked on profreader roles. I like the details.
 - ⚡️ I had a rock band when I was 19.
-- ⚡️ I've been playing CoD recently. It's really amazing.
+- ⚡️ I think programming is a type of writing (but more than just writing).
