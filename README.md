@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Language technologies for information extraction** for AI.
 - 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure OOP.
 - 🔧 I love working on Linux... You can customize it!
-- 👯 I’m looking to collaborate on chat agents or NLP embbebed projects.
+- 👯 I’m looking to collaborate on chat agents or web projects with NLP techniques involved.
 - 📫 Contact me: <a href="https://bit.ly/30RmPiC" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white"></a>
 
 #### OS
