@@ -6,7 +6,6 @@ I'm a coder and linguist who enjoy automation testing and web develop.
 
 #### About me
 
-- 🎓 I graduated with a bachelor's degree in **Linguistics** from National University of Colombia.
 - 🌱 I’m currently learning **Automation testing** and **Cloud computing**.
 - 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure OOP.
 - 🔧 I love working on Linux... You can customize it!
