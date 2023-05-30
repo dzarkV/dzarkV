@@ -6,7 +6,7 @@ I'm a coder and linguist who enjoy automation testing and web develop.
 
 #### About me
 
-- 🌱 I’m currently learning **Automation testing** and **Cloud computing**.
+- 🌱 I’m currently learning **Software development** and **Cloud computing**.
 - 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure OOP.
 - 🔧 I love working on Linux... You can customize it!
 - 👯 I’m looking to collaborate on web testing projects with Serenity BDD.
