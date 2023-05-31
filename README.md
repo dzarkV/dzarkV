@@ -51,6 +51,6 @@ I'm a coder and linguist who enjoy automation testing and web develop.
   <img align="justify" src="https://github-readme-stats.vercel.app/api?username=dzarkV&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-<a><div align="right">![visitors](https://visitor-badge.deta.dev/badge?page_id=visitors_of_dzarkV.within_readme_file&left_color=black&right_color=grey)</div></a>
+<a><div align="right"><img src="https://komarev.com/ghpvc/?username=dzarkV&label=Profile%20views&color=orange&style=flat" alt="dzarkV" /></div></a>
 
 ### Check some projects! :point_down:
