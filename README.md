@@ -47,8 +47,10 @@ I'm a coder and linguist who enjoy automation testing and web develop.
 - ⚡️ I think programming is a via of direct writing to build interactions.
 
 #### My GitHub Stats 📊
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="justify" src="https://github-readme-stats.vercel.app/api?username=dzarkV&count_private=true&show_icons=true&theme=radical" />
+  <img align="justify" src="https://github-readme-stats.vercel.app/api?username=dzarkV&count_private=true&show_icons=true&theme=onedark" />
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzarkV&hide_progress=true&theme=onedark" />
 </a>
 
 <a><div align="right"><img src="https://komarev.com/ghpvc/?username=dzarkV&label=Profile%20views&color=orange&style=flat" alt="dzarkV" /></div></a>
