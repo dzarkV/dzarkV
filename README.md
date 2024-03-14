@@ -9,7 +9,7 @@ I'm a coder and linguist who enjoy automation testing and web develop.
 - 🌱 I’m currently learning **Software development** and **Cloud computing**.
 - 🔥 I'm have a passion for Python and Pharo/Smalltalk languajes: the first for general-purposes, and last for pure OOP.
 - 🔧 I love working on Linux... You can customize it!
-- 👯 I’m looking to collaborate on web testing projects with Serenity BDD.
+- 👯 I’m looking to collaborate on unstructure data processing, NLP and AI projects.
 - 📫 Contact me: <a href="https://bit.ly/30RmPiC" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white"></a>
 
 #### OS
